@@ -26,6 +26,7 @@ Features:
 2. Display twitts' location based on time range filter
 3. Color gradient and density map display for twitts on map based on location
 4. Real time twitts location display 
+5. Auto create AWS Elastic beanstalk application, environment, and deploy TwittMap application 
 
 Tools used:
 1. Web server: Tomcat 7.0 on AWS Elastic Beanstalk
