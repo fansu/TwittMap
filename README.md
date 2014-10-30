@@ -3,7 +3,7 @@ COMSE6998 CLOUD COMPUTING & BIG DATA - TwittMap(Assignment1)
 
 Team Member
 -----------
-Fan Su		 	()
+Fan Su		 	(fs2488)
 Jingyi	Guo		(jg3421)
 
 website for demon
