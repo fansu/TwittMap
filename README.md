@@ -7,14 +7,16 @@ Fan Su		 	(fs2488)
 Jingyi	Guo		(jg3421)
 
 website for demo
------------
+-----------------
 http://twittapp-env.elasticbeanstalk.com/index.jsp
 
 Files
 -----
 README						- this file
-AutoDeploy.java		 		- java file using Elastic Beanstalk API to create, configure, and deploy
-							Elastic LoadBalancing API to configure load balancing.
+AutoDeploy			 		- folder contins AwsAuto.java file using AmazonS3Client to creat a S3 bucket, upload .war file to this 
+							bucket,and linked this file to a application's enviroment. Elastic Beanstalk API is used to 
+							create an application and environment, Elastic LoadBalancing API is used to configure load balancing.
+							contains an example.war and a credentials file
 
 
 Internal Design
@@ -44,8 +46,15 @@ Steps in using source code
 6. Create account in Twitter API and get access keys
 7. Deploy project in AWS Elastic Beanstalk
 
+How to run AutoDeploy.java(extra point)
+---------------------------------------------
+1.import AutoDeploy to Eclipse and run AwsAuto.java and make sure you have AWS SDK installed.
+2.open AutoDeploy.java and fill in your AWS_KEY and AWS_SECRET_KEY,KEY_PAIR
+3.Fill in your AWS_KEY and AWS_SECRET_KEY,KEY_PAIR in credentials
 
-
+Comment to TA
+---------------------------------------------
+If there is anything wrong, please contact us!
 
 
 
