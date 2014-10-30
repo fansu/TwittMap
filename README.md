@@ -6,7 +6,7 @@ Team Member
 Fan Su		 	(fs2488)
 Jingyi	Guo		(jg3421)
 
-website for demon
+website for demo
 -----------
 http://twittapp-env.elasticbeanstalk.com/index.jsp
 
