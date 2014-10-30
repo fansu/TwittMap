@@ -13,7 +13,7 @@ http://twittapp-env.elasticbeanstalk.com/index.jsp
 Files
 -----
 README						- this file
-AutoLoad.java		 		- java file using Elastic Beanstalk API to create, configure, and deploy
+AutoDeploy.java		 		- java file using Elastic Beanstalk API to create, configure, and deploy
 							Elastic LoadBalancing API to configure load balancing.
 
 
