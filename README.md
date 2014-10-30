@@ -17,7 +17,8 @@ AutoLoad.java		 		- java file using Elastic Beanstalk API to create, configure, 
 							Elastic LoadBalancing API to configure load balancing.
 
 
-
+Internal Design
+---------------
 Features:
 1. Display twitts' location on map with predefined keywords search ('halloween', 'USAirway', 'NewYork', 'Columbia')
 2. Display twitts' location based on time range filter
