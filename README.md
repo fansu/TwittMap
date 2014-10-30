@@ -6,6 +6,10 @@ Team Member
 Fan Su		 	()
 Jingyi	Guo		(jg3421)
 
+website for demon
+-----------
+http://twittapp-env.elasticbeanstalk.com/index.jsp
+
 Files
 -----
 README						- this file
@@ -23,7 +27,7 @@ Features:
 Tools used:
 1. Web server: Tomcat 7.0 on AWS Elastic Beanstalk
 2. Database: Apache Cassandra on AWS EC2
-3. API: Twitter Live and Streaming API, Google Map API 
+3. API: Twitter Live and Streaming API, Google Map API,Elastic Beanstalk,Elastic LoadBalancing
 
 Steps to use without installing source code:
 1. Go to page http://twittapp-env.elasticbeanstalk.com/
