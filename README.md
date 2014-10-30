@@ -1,5 +1,18 @@
-TwittMap
-========
+COMSE6998 CLOUD COMPUTING & BIG DATA - TwittMap(Assignment1)
+
+
+Team Member
+-----------
+Fan Su		 	()
+Jingyi	Guo		(jg3421)
+
+Files
+-----
+README						- this file
+AutoLoad.java		 		- java file using Elastic Beanstalk API to create, configure, and deploy
+							Elastic LoadBalancing API to configure load balancing.
+
+
 
 Features:
 1. Display twitts' location on map with predefined keywords search ('halloween', 'USAirway', 'NewYork', 'Columbia')
