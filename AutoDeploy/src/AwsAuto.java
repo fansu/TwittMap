@@ -53,8 +53,8 @@ public class AwsAuto{
 
 	public static void main(String[] args) {
 		// user credentials
-		final String AWS_KEY = "AKIAIDZPMUE6FG2INZ3A";//change to your AWS_KEY
-		final String AWS_SECRET_KEY = "iIYR9ZzNYQU6HDWSfK+ziH27mpAmBwPQIKhPET1V";//change to your AWS_KEY
+		final String AWS_KEY = "";//change to your AWS_KEY
+		final String AWS_SECRET_KEY = "";//change to your AWS_KEY
 		final String sampleApp="Twitt-tw-rw";
 		String versionLabel="Version1";
 		String cnamePrefix="mysampleapplication-fsdfsd";
