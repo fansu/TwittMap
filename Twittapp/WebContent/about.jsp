@@ -52,7 +52,7 @@
   <h3>Team Member</h3>
   <p>Fan Su      (fs2488)</p>
   <p>Jingyi  Guo   (jg3421)</p>
-  <h3>website for demon</h3>
+  <h3>website for demo</h3>
   <a href="http://twittapp-env.elasticbeanstalk.com/index.jsp">http://twittapp-env.elasticbeanstalk.com/index.jsp</a>
   <h3>Internal Design</h3>
   <h4>Features: </h4>
