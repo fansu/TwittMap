@@ -17,8 +17,8 @@ AutoDeploy			 		- folder contains AwsAuto.java file using AmazonS3Client to crea
 
 Internal Design
 ---------------
-
 Features:
+
 1. Display twitts' location on map with predefined keywords search ('halloween', 'USAirway', 'NewYork', 'Columbia')
 2. Display twitts' location based on time range filter
 3. Color gradient and density map display for twitts on map based on location
@@ -49,12 +49,16 @@ Steps in using source code
 
 How to run AutoDeploy.java(extra point)
 ---------------------------------------------
-1.import AutoDeploy to Eclipse and run AwsAuto.java and make sure you have AWS SDK installed.
-2.open AutoDeploy.java and fill in your AWS_KEY and AWS_SECRET_KEY,KEY_PAIR
-3.Fill in your AWS_KEY and AWS_SECRET_KEY,KEY_PAIR in credentials
+
+Steps
+
+1. import AutoDeploy to Eclipse and run AwsAuto.java and make sure you have AWS SDK installed.
+2. Open AutoDeploy.java and fill in your AWS_KEY and AWS_SECRET_KEY,KEY_PAIR
+3. Fill in your AWS_KEY and AWS_SECRET_KEY,KEY_PAIR in credentials
 
 Comment to TA
 ---------------------------------------------
+
 If there is anything wrong, please contact us!
 
 
